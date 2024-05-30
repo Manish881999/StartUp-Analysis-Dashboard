@@ -1,0 +1,54 @@
+,,,,,,,,
+column,#_Null_values,%NULL values,#of unique values,Sample data,,,,
+permalink,0,0.00%,66368,"['/organization/-fame' '/organization/-qounter'
+ '/organization/-the-one-of-them-inc-' '/organization/0-6-com'
+ '/organization/004-technologies' '/organization/01games-technology'
+ '/organization/0ndine-biomedical-inc' '/organization/0xdata'
+ '/organization/1' '/organization/1-2-3-listo']",,,,
+name,1,0.00%,66102,"['#fame' ':Qounter' '(THE) ONE of THEM,Inc.' '0-6.com' '004 Technologies'
+ '01Games Technology' 'Ondine Biomedical Inc.' 'H2O.ai' 'One Inc.'
+ '1,2,3 Listo']",,,,
+homepage_url,5058,7.62%,61191,"['http://livfame.com' 'http://www.qounter.com' 'http://oneofthem.jp'
+ 'http://www.0-6.com' 'http://004gmbh.de/en/004-interact'
+ 'http://www.01games.hk/' 'http://ondinebio.com' 'http://h2o.ai/'
+ 'http://whatis1.com' 'http://www.123listo.com']",,,,
+category_list,3148,4.74%,27296,"['Media' 'Application Platforms|Real Time|Social Network Media'
+ 'Apps|Games|Mobile' 'Curated Web' 'Software' 'Games' 'Biotechnology'
+ 'Analytics' 'Mobile' 'E-Commerce']",,,,
+funding_total_usd,0,0.00%,18896,"['10000000' '700000' '3406878' '2000000' '-' '41250' '762851' '33600000'
+ '1150050' '40000']",,,,
+status,0,0.00%,4,['operating' 'acquired' 'closed' 'ipo'],,,,
+country_code,6958,10.48%,137,['IND' 'USA' nan 'CHN' 'HKG' 'CAN' 'CHL' 'GBR' 'FRA' 'AUS'],,,,
+state_code,8547,12.88%,311,['16' 'DE' nan '22' 'IL' 'BC' 'CA' '12' 'NC' 'FL'],,,,
+region,8030,12.10%,1092,"['Mumbai' 'DE - Other' nan 'Beijing' 'Springfield, Illinois' 'Hong Kong'
+ 'Vancouver' 'SF Bay Area' 'Santiago' 'NC - Other']",,,,
+city,8028,12.10%,5111,"['Mumbai' 'Delaware City' nan 'Beijing' 'Champaign' 'Hong Kong'
+ 'Vancouver' 'Mountain View' 'San Francisco' 'Las Condes']",,,,
+funding_rounds,0,0.00%,19,[ 1  2  4  3  9  5  6  7  8 10],,,,
+founded_at,15221,22.93%,3978,"[nan '2014-09-04' '2007-01-01' '2010-01-01' '1997-01-01' '2011-01-01'
+ '2011-08-01' '2012-01-01' '2013-12-07' '1986-01-01']",,,,
+first_funding_at,24,0.04%,4817,"['2015-01-05' '2014-03-01' '2014-01-30' '2008-03-19' '2014-07-24'
+ '2014-07-01' '2009-09-11' '2013-01-03' '2011-07-20' '2013-02-18']",,,,
+last_funding_at,0,0.00%,4518,"['2015-01-05' '2014-10-14' '2014-01-30' '2008-03-19' '2014-07-24'
+ '2014-07-01' '2009-12-21' '2015-11-09' '2014-02-05' '2013-02-18']",,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,0,0
+,,,,,,,0.00150675,1.50675E-05
+,,,,,,,7.621142719,0.076211427
+,,,,,,,4.743249759,0.047432498
+,,,,,,,0,0
+,,,,,,,0,0
+,,,,,,,10.48396818,0.104839682
+,,,,,,,12.87819431,0.128781943
+,,,,,,,12.09920444,0.120992044
+,,,,,,,12.09619094,0.120961909
+,,,,,,,0,0
+,,,,,,,22.93424542,0.229342454
+,,,,,,,0.036162006,0.00036162
+,,,,,,,0,0
